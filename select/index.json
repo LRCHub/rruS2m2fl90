@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "18",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T14:58:01.623824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In The Heat Of The Morning - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_In_The_Heat_Of_The_Morning_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love You Till Tuesday - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Love_You_Till_Tuesday_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Silly Boy Blue - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Silly_Boy_Blue_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When I Live My Dream - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_When_I_Live_My_Dream_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Enoch 18:14 (Bonus Track)",
+      "artist": "The Mountain Goats",
+      "has_synced": false,
+      "path": "select/05_Enoch_18_14_(Bonus_Track)_The_Mountain_Goats.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "18 Years",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/06_18_Years_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Section 18 (Everything Starts At the Seam)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/07_Section_18_(Everything_Starts_At_the_Seam)_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hangar 18",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/08_Hangar_18_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "18 Carat Love Affair",
+      "artist": "The Associates",
+      "has_synced": true,
+      "path": "select/09_18_Carat_Love_Affair_The_Associates.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "18,000 Lira",
+      "artist": "Art Brut",
+      "has_synced": true,
+      "path": "select/10_18,000_Lira_Art_Brut.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "18. Calling America",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/11_18._Calling_America_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Girl Boy (£18 Snarerush Mix)",
+      "artist": "Aphex Twin",
+      "has_synced": false,
+      "path": "select/12_Girl_Boy_(£18_Snarerush_Mix)_Aphex_Twin.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girl/Boy (£18 Snare Rush Mix)",
+      "artist": "Aphex Twin",
+      "has_synced": false,
+      "path": "select/13_Girl_Boy_(£18_Snare_Rush_Mix)_Aphex_Twin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Waiting For The 7.18",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/14_Waiting_For_The_7.18_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Diary of an 18 Year Old Boy",
+      "artist": "Client",
+      "has_synced": true,
+      "path": "select/15_Diary_of_an_18_Year_Old_Boy_Client.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "18",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_18_One_Direction.txt"
+    }
+  ]
+}
